@@ -1,0 +1,7 @@
+package assignment.week3.day2;
+
+public interface Language  {
+	void Java();
+	
+
+}
